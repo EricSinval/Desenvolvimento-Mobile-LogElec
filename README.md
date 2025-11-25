@@ -1,4 +1,4 @@
-#af3 para cima, no meu vsc esta assim:## AF3 - Desenvolvimento Mobile
+## AF3 - Desenvolvimento Mobile
 
 ### Construção de uma aplicação mobile, que seja capaz de auxiliar e maximizar o dia a dia de pessoas.
 
@@ -28,4 +28,4 @@ Simples, educativa e eficiente, ajuda negócios a gerir resíduos de forma respo
 
 ## 🛠 Tecnologias Utilizadas  
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=fo)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
